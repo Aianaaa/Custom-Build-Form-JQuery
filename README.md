@@ -1,3 +1,3 @@
 # Custom Build Form with JQuery
 ## Result you can see here
-[Slider]( https://aianaaa.github.io/Slider/)
+[Custom Build Form](https://aianaaa.github.io/Custom-Build-Form-JQuery/)
